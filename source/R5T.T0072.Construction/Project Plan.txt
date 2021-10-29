@@ -1,0 +1,3 @@
+R5T.T0072.Construction - Construction project for IHasConfigureServices interface..
+
+GOALS:
